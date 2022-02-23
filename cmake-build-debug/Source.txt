@@ -1,0 +1,7 @@
+X = 12.5
+Y = X*4/5
+//This is a comment
+Z = X*Y/5
+M = Z*-2
+K = 10.5+(Z-2.5)/(X+Y)
+if Y + X == X + Y: Z = 129
